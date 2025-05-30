@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582852908507",
+    "project_id": "ntp25-b4b76",
+    "storage_bucket": "ntp25-b4b76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582852908507:android:5095fb0075021f359803fe",
+        "android_client_info": {
+          "package_name": "com.example.ntp25"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEreQazqxDIdHKbWsOH5H3TemyirfJMzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
